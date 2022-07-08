@@ -13,6 +13,7 @@
 
 body {
   background: url(./img/Plano\ de\ fundo\ para\ vídeo\ para\ Reels\ do\ Instagram\ para\ Dia\ dos\ Namorados\ com\ Scrapbook\ em\ Bege\ e\ Branco.svg);
+  
 } 
 
 .container {
@@ -22,6 +23,8 @@ body {
   align-items: center;
   text-align: center;
   height: 90vh;
+  max-width: 102.4rem;
+  margin: 0 auto;
 }
 
 .imgPerfil {
