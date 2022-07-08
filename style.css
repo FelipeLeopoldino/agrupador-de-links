@@ -13,7 +13,7 @@
 
 body {
   background: url(./img/Plano\ de\ fundo\ para\ vídeo\ para\ Reels\ do\ Instagram\ para\ Dia\ dos\ Namorados\ com\ Scrapbook\ em\ Bege\ e\ Branco.svg);
-}
+} 
 
 .container {
   display: flex;
@@ -21,20 +21,13 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  height: 100vh;
+  height: 90vh;
 }
 
 .imgPerfil {
-  width: 25rem;
+  width: 35rem;
 }
 
-h1 {
-  font-family: 'Dancing Script';
-  text-transform: capitalize;
-  font-size: 4rem;
-  margin-bottom: 0.5rem;
-  color: #474433;
-}
 
 h4 {
   font-family: 'Dm Sans';
